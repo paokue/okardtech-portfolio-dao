@@ -1,1 +1,1 @@
-# okardtech-portfolio-dao
+# okardtech-portfoliog
